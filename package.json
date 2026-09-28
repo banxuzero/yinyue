@@ -78,7 +78,7 @@
     "@neteasecloudmusicapienhanced/unblockmusic-utils": "^0.4.4",
     "axios": "^1.20.0",
     "crypto-js": "^4.2.0",
-    "dotenv": "^17.4.2",
+    "dotenv": "^18.0.4",
     "express": "^5.2.1",
     "express-fileupload": "^1.5.2",
     "gzip": "^0.1.0",
